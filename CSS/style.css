@@ -1,0 +1,112 @@
+#background {
+    width: 100%;
+    height: 850px;
+}
+
+#window {
+    position: absolute;
+    left: 1100px;
+    top: 0px;
+}
+
+#table {
+    position: absolute;
+    left: 800px;
+    top: 400px;
+}
+
+#chair {
+    position: absolute;
+    left: 450px;
+    top: 40px;
+}
+
+#coutch {
+    position: absolute;
+    left: 900px;
+    top: 150px;
+}
+
+#painting {
+    position: absolute;
+    left: 750px;
+    top: 10px;
+}
+
+#lamp {
+    position: absolute;
+    left: 350px;
+    top: 0px;
+}
+
+#dog-bed {
+    position: absolute;
+    left: 100px;
+    top: 600px;
+}
+
+#dog-bone {
+    position: absolute;
+    left: 400px;
+    top: 750px;
+}
+
+#light-switch {
+    position: absolute;
+    left: 1500px;
+    top: 50px;
+}
+
+#tv {
+    position: absolute;
+    left: 650px;
+    top: 650px;
+}
+
+#side-table-00 {
+    position: absolute;
+    left: 1300px;
+    top: 300px;
+}
+
+#side-table-01 {
+    position: absolute;
+    left: 800px;
+    top: 240px;
+}
+
+#flower {
+    position: absolute;
+    left: 800px;
+    top: 100px;
+}
+
+#radio-table {
+    position: absolute;
+    left: 1600px;
+    top: 500px;
+}
+
+#radio {
+    position: absolute;
+    left: 1600px;
+    top: 360px;
+}
+
+#overlay {
+    background-color: rgba(0, 0, 0, 0.384);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 927px;
+    pointer-events: none;
+}
+
+.wiggle-image {
+    cursor: pointer;
+}
+
+.disable {
+    display: none;
+}
